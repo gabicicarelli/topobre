@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "^7.9",
+        "sonata-project/google-authenticator": "^2.3"
+    }
+}
